@@ -10,7 +10,7 @@ export default function ProductPage() {
         Producto #{id}
       </h1>
 
-      <div className="bg-gray-100 p-8 rounded-xl shadow-md">
+      <div className="bg-gray-200 p-6 rounded-lg">
         <h2 className="text-2xl font-semibold mb-4">Detalles del Producto</h2>
 
         <div className="space-y-2 text-gray-700">
